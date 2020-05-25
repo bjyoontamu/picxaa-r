@@ -1,6 +1,6 @@
 # PicXAA-R
 
-Official implementation of **P**robabilist**I****C** ma**X**imum **A**ccuracy **A**lignment of **R**NA sequences
+Official implementation of **P**robabilist**IC** ma**X**imum **A**ccuracy **A**lignment of **R**NA sequences
             
 -----------------------------------------------------------------
 PicXAA-R is a probabilistic non-progressive alignment algorithm
